@@ -1,0 +1,17 @@
+---
+layout: default
+title: People
+nav_order: 2
+---
+
+{% include people.html image_path="images/people/MM.png" name="Dr. Matthew Middlehurst" affiliation="University of Bradford, United Kingdom" webpage="https://github.com/MatthewMiddlehurst" description="Matthew is a Lecturer in Computer Science at the University of Bradford and is a core developer for the aeon toolkit. Prior to this, he was a Research Fellow on the ESPRC aeon grant. His research interests are time series classification and regression, with a keen interest in developing open source software for the field and promoting reproducibility. His group has developed the HIVE-COTE family algorithms for time series classification, which have a good claim to represent state-of-the-art in the field." %}
+
+{% include people.html image_path="images/people/AB.jpg" name="Prof. Anthony Bagnall" affiliation="University of Southampton, United Kingdom" webpage="https://www.southampton.ac.uk/people/62tpqc/professor-tony-bagnall" description="Tony is a Professor in Computer Science at the University of Southampton. His primary research interest is in developing algorithms for time series machine learning, including classification, regression and clustering, and finding novel areas of application. He is currently PI on a three year EPSRC grant called aeon: a toolkit for machine learning with time series that is supporting this tutorial. He has ongoing research collaborations with scientists on four continents and a track record of consultancy with industrial partners. He is an action editor for ECML 2024, is on the editorial board for the Data Mining and Knowledge Discovery journal and regularly reviews for data mining conferences such as KDD, ICDM and SDM. He helps maintain the time series classification archive that has been used in thousands of publications." %}
+
+{% include people.html image_path="images/people/GF.jpg" name="Prof. Germain Forestier" affiliation="Université de Haute-Alsace, France" webpage="https://germain-forestier.info/" description="Germain is a university Professor at the University of Haute-Alsace in Mulhouse France. He is part of the IRIMAS research institute, for which he is head of the computer science department. His research is mainly oriented around time series analysis, with a speciality in deep learning models. His contributions to the deep learning community in time series classification have been significant recently." %}
+
+{% include people.html image_path="images/people/AE.jpg" name="Arik Ermshaus" affiliation="Humboldt University of Berlin, Germany" webpage="https://sites.google.com/view/arikermshaus" description="Arik is a research associate and PhD student at Humboldt University of Berlin. His field of research is unsupervised TS data mining with a focus on segmentation." %}
+
+## Contributors
+
+{% include people.html image_path="images/people/AF.jpg" name="Dr. Ali Ismail-Fawaz" affiliation="Université de Haute-Alsace, France" webpage="https://hadifawaz1999.github.io/" description="Ali is a Postdoctoral researcher stationed at the IRIMAS institute of the University of Haute-Alsace in France. He is a core developer for the aeon toolkit and is leading the deep learning part of the package with a recent kick off for a deep self-supervised module. His main research topic is focused on time series analysis, with a speciality in deep learning. His work has addressed different tasks such as classification and clustering." %}
