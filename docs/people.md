@@ -1,7 +1,7 @@
 ---
 layout: default
 title: People
-nav_order: 2
+nav_order: 4
 ---
 
 {% include people.html image_path="images/people/MM.png" name="Dr. Matthew Middlehurst" affiliation="University of Bradford, United Kingdom" webpage="https://github.com/MatthewMiddlehurst" description="Matthew is a Lecturer in Computer Science at the University of Bradford and is a core developer for the aeon toolkit. Prior to this, he was a Research Fellow on the ESPRC aeon grant. His research interests are time series classification and regression, with a keen interest in developing open source software for the field and promoting reproducibility. His group has developed the HIVE-COTE family algorithms for time series classification, which have a good claim to represent state-of-the-art in the field." %}
