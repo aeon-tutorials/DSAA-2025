@@ -12,7 +12,7 @@ Time series classification (TSC) is a rapidly evolving field with applications a
 ## When & Where
 
 - Conference: [DSAA 2025](https://dsaa.ieee.org/2025/)
-- Date: Sunday, October 09
+- Date: Sunday, October 12
 - Time: 09:00 - 12:00 
 - Room: Lloyd Suite
 
