@@ -37,4 +37,4 @@ In this tutorial we highlight how we learn from TS data using the latest algorit
 
 [[3]](https://doi.org/10.1007/s10618-020-00727-3) Alejandro Pasos Ruiz, Michael Flynn, James Large, __Matthew Middlehurst__, and __Anthony Bagnall__. The great multivariate time series classification bake off: a review and experimental evaluation of recent algorithmic advances. Data Mining and Knowledge Discovery, 401-449, 2021.
 
-[[4]](https://doi.org/10.1109/JAS.2019.1911747) Hoang Anh Dau, Anthony Bagnall, Kaveh Kamgar, Chin-Chia Michael Yeh, Yan Zhu, Shaghayegh Gharghabi, Chotirat Ann Ratanamahatana, and Eamonn Keogh. The UCR time series archive. IEEE/CAA Journal of Automatica Sinica, 1293-1305, (2019).
+[[4]](https://doi.org/10.1109/JAS.2019.1911747) Hoang Anh Dau, __Anthony Bagnall__, Kaveh Kamgar, Chin-Chia Michael Yeh, Yan Zhu, Shaghayegh Gharghabi, Chotirat Ann Ratanamahatana, and Eamonn Keogh. The UCR time series archive. IEEE/CAA Journal of Automatica Sinica, 1293-1305, (2019).
