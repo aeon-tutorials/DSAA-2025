@@ -4,8 +4,6 @@ title: Schedule
 nav_order: 2
 ---
 
-#### __\*\* UNDER CONSTRUCTION \*\*__
-
 The tutorial is on __Sunday, October 12__ starting at __09:00__ in the __Lloyd Suite__. The speakers will be available afterwards for Q&A, and questions are always welcome on the [_aeon_](/https://www.aeon-toolkit.org/) Slack (details on the website) or via email.
 
 - Introduction to time series classification and _aeon_ - (09:00, 10 Minutes, by Anthony Bagnall)
