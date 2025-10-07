@@ -9,20 +9,14 @@ nav_order: 2
 The tutorial is on __Sunday, October 12__ starting at __09:00__ in the __Lloyd Suite__. The speakers will be available afterwards for Q&A, and questions are always welcome on the [_aeon_](/https://www.aeon-toolkit.org/) Slack (details on the website) or via email.
 
 - Introduction to time series classification and _aeon_ - (09:00, 10 Minutes, by Anthony Bagnall)
-
-  todo description
-
-  [Slides](todo) & [Notebook (file)](todo) & [Notebook (Google Colab)](todo)   
+  
+  [Slides](todo) 
 
 - Time series classification algorithms - (09:10, 40 Minutes, by Anthony Bagnall)
-
-  todo description
 
   [Slides](todo) & [Notebook (file)](todo) & [Notebook (Google Colab)](todo)   
 
 - Deep learning for time series classification - (09:50, 40 Minutes, by Germain Forestier)
-
-  todo description
 
   [Slides](todo) & [Notebook (file)](todo) & [Notebook (Google Colab)](todo)  
 
@@ -30,14 +24,10 @@ The tutorial is on __Sunday, October 12__ starting at __09:00__ in the __Lloyd S
 
 - Segmentation of time series for classification - (11:00, 25 Minutes, by Arik Ermshaus)
 
-  todo description
-
   [Slides](todo) & [Notebook (file)](todo) & [Notebook (Google Colab)](todo)
 
-- Recent advances for unequal length, unbalanced and high dimensional time series - (11:25, 25 Minutes, by Matthew Middlehurst)
+- Recent advances for unequal length, unbalanced and high dimensional time series - (11:25, 25 Minutes, by Anthony Bagnall)
   
-  todo description
-
   [Slides](todo) & [Notebook (file)](todo) & [Notebook (Google Colab)](todo)   
 
 - Conclusion/Q&A - (11:50, 10 Minutes, by Anthony Bagnall)
